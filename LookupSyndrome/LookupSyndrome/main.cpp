@@ -2,7 +2,7 @@
 //  main.cpp
 //  LookupSyndrome
 //
-//  Created by 丁榮 on 2014/7/12.
+//  Created by everpalm on 2014/7/12.
 //
 //
 
